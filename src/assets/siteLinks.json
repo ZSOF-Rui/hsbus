@@ -1,0 +1,37 @@
+[
+  {
+    "icon": "BusOutline",
+    "name": "黄山公交",
+    "link": "http://wx.huangshangongjiaobj.com/"
+  },
+  {
+    "icon": "BusOutline",
+    "name": "徽州公交",
+    "link": "http://app.ahxdbus.cn/"
+  },
+  {
+    "icon": "BusOutline",
+    "name": "休宁公交",
+    "link": "http://wx.xiuningpublictransport.com/"
+  },
+  {
+    "icon": "BusOutline",
+    "name": "歙县城市公交",
+    "link": "http://wx.shexianbus.com/"
+  },
+  {
+    "icon": "BusOutline",
+    "name": "歙县杭徽公交",
+    "link": "http://tsgj.weixin4bus.com:50009/LineServer/WeiXin.action"
+  },
+  {
+    "icon": "BusOutline",
+    "name": "祁门公交",
+    "link": "http://wx.qmxgj.com:280/Interact/touchscreen/MenuLeft?parentId=2&code=000001&systemType=2&domainId=false"
+  },
+  {
+    "icon": "BusOutline",
+    "name": "黟县公交",
+    "link": "https://zhuanfa.tiamaes.com/yixian/index.html"
+  }
+]
